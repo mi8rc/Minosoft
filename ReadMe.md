@@ -1,4 +1,4 @@
-# Minosoft
+# Minosofts
 
 [<img src="https://shields-io.bixilon.de/matrix/minosoft:matrix.org?style=for-the-badge">](https://matrix.to/#/#minosoft:matrix.org)
 <img src="https://shields-io.bixilon.de/gitlab/pipeline-status/bixilon/minosoft?branch=master&gitlab_url=https%3A%2F%2Fgitlab.bixilon.de&style=for-the-badge">
